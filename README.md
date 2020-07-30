@@ -5,15 +5,23 @@ All of these are assignments done for the online course CS50's Introduction to C
 
 *Python
 1) Mario
+
 This is a program used to display the following:
 
        #
+       
       ##
+      
      ###
+     
     ####
+    
    #####
+   
   ######
+  
  #######
+ 
 ########
 
 The number of rows and columns created depends on the input. For eg. if the input is 8, you get the shape provide above.
@@ -55,15 +63,25 @@ $ python import.py characters.csv
 $ python roster.py Gryffindor
 
 Lavender Brown, born 1979
+
 Colin Creevey, born 1981
+
 Seamus Finnigan, born 1979
+
 Hermione Jean Granger, born 1979
+
 Neville Longbottom, born 1980
+
 Parvati Patil, born 1979
+
 Harry James Potter, born 1980
+
 Dean Thomas, born 1980
+
 Romilda Vane, born 1981
+
 Ginevra Molly Weasley, born 1981
+
 Ronald Bilius Weasley, born 1980
 
 *Web_Development
