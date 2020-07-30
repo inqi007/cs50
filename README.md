@@ -8,21 +8,15 @@ All of these are assignments done for the online course CS50's Introduction to C
 
 This is a program used to display the following:
 
-       #
-       
-      ##
-      
-     ###
-     
-    ####
-    
-   #####
-   
-  ######
-  
- #######
- 
+       #     
+      ##    
+     ###   
+    ####   
+   #####  
+  ######  
+ ####### 
 ########
+
 
 The number of rows and columns created depends on the input. For eg. if the input is 8, you get the shape provide above.
 
