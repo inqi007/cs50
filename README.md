@@ -1,4 +1,4 @@
-# cs50
+# CS50
 All of these are assignments done for the online course CS50's Introduction to Computer Science by Harvard. 
 
 **Python**
@@ -81,6 +81,88 @@ Check 0:10 to 2:30 of the following video to understand how this website works- 
 
 Files already provided- layout.html, login.html, helpers.py, login/logout routes within application.py, finance.db
 
+**C**
+1) Caesar
 
+A program that encrypts messages using Caesar’s cipher, per the following example:
+
+$ ./caesar 13
+plaintext:  HELLO
+ciphertext: URYYB
+
+Ceasar's cipher encrypts messages by shifting each letter therein by some number of places. 
+
+2) Substitution
+
+Implements a substitution cipher, per the following example:
+
+$ ./substitution JTREKYAVOGDXPSNCUIZLFBMWHQ
+plaintext:  HELLO
+ciphertext: VKXXN
+
+In a substitution cipher, we “encrypt” a message by replacing every letter with another letter. To do so, we use a key: in this case, a mapping of each of the letters of the alphabet to the letter it should correspond to when we encrypt it.
+
+3) Credit
+
+A program that identifies the type of a credit card. For eg:
+
+$ ./credit
+Number: 4003600000000014
+VISA
+
+$ ./credit
+Number: 6176292929
+INVALID
+
+4) Plurality
+
+A program that runs a plurality election. For eg:
+
+$ ./plurality Alice Bob Charlie
+Number of voters: 4
+Vote: Alice
+Vote: Bob
+Vote: Charlie
+Vote: Alice
+Alice
+
+5) Runoff
+
+A program that runs a runoff election. For eg:
+
+./runoff Alice Bob Charlie
+Number of voters: 5
+Rank 1: Alice
+Rank 2: Bob
+Rank 3: Charlie
+
+Rank 1: Alice
+Rank 2: Charlie
+Rank 3: Bob
+
+Rank 1: Bob
+Rank 2: Charlie
+Rank 3: Alice
+
+Rank 1: Bob
+Rank 2: Alice
+Rank 3: Charlie
+
+Rank 1: Charlie
+Rank 2: Alice
+Rank 3: Bob
+
+Alice
+
+6) Filter
+
+A program that applies filters to BMPs. Filters implemented are Grayscale, Sepia, Reflection and Blur. 
+File provided was filter.c . File worked on is helpers.c
+
+7) Speller
+
+A program that spell-checks a file using a hash table. 
+
+Files provided were speller.c , dictionaries and texts. File worked on is dictionaries.c . 
 
 
