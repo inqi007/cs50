@@ -6,6 +6,7 @@ All of these are assignments done for the online course CS50's Introduction to C
 *Python
 1) Mario
 This is a program used to display the following:
+
        #
       ##
      ###
@@ -26,9 +27,11 @@ This is a program that reads a text and determines for which grade this text is 
 number of words, sentences and letters in a text.
 For eg.
 Text: Congratulations! Today is your day. You're off to Great Places! You're off and away!
+
 Grade 3
 
 Text: As the average number of letters and words per sentence increases, the Coleman-Liau index gives the text a higher reading level. If you were to take this paragraph, for instance, which has longer words and sentences than either of the prior two examples, the formula would give the text an eleventh grade reading level.
+
 Grade 11
 
 The text is the input and the grade is the output.
