@@ -12,13 +12,8 @@ This is a program used to display the following:
       ##    
      ###   
     ####   
-   #####  
-  ######  
- ####### 
-########
-
-
-The number of rows and columns created depends on the input. For eg. if the input is 8, you get the shape provide above.
+    
+The number of rows and columns created depends on the input. For eg. if the input is 4, you get the shape provided above.
 
 2) Cash
 
