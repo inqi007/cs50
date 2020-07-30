@@ -17,8 +17,7 @@ The number of rows and columns created depends on the input. For eg. if the inpu
 
 2) Cash
 
-This is a program that calculates how many coins a customer is owed based on the change that is owed. For example, if a customer is owed 41cents, then the printed
-value will be 4 given 25cents + 10cents + 5cents + 1cent= 41cents. We are only only to use 25, 10, 5 and 1 cents. 
+This is a program that calculates how many coins a customer is owed based on the change that is owed. For example, if a customer is owed 41 cents, then the printed value will be 4 given 25 cents + 10 cents + 5 cents + 1 cent= 41 cents. We are only only to use 25, 10, 5 and 1 cents. 
 
 3) Readability
 
