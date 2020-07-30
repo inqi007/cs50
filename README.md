@@ -1,9 +1,9 @@
 # cs50
 All of these are assignments done for the online course CS50's Introduction to Computer Science by Harvard. 
 
-*C
+**C**
 
-*Python
+**Python**
 1) Mario
 
 This is a program used to display the following:
@@ -72,7 +72,7 @@ Ginevra Molly Weasley, born 1981
 
 Ronald Bilius Weasley, born 1980
 
-*Web_Development
+**Web_Development**
 
 Languages used: Python, Flask, Jinja, HTML/CSS
 
