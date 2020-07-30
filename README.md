@@ -1,8 +1,6 @@
 # cs50
 All of these are assignments done for the online course CS50's Introduction to Computer Science by Harvard. 
 
-**C**
-
 **Python**
 1) Mario
 
@@ -70,7 +68,7 @@ Romilda Vane, born 1981
 
 Ginevra Molly Weasley, born 1981
 
-Ronald Bilius Weasley, born 1980
+Ronald Bilius Weasley, born 1980 <br />
 
 **Web_Development**
 
@@ -81,3 +79,7 @@ Program: A website via which users can “buy” and “sell” stocks.
 Check 0:10 to 2:30 of the following video to understand how this website works- https://www.youtube.com/watch?v=kAvCTffbH04&list=PLhQjrBD2T382xHP1dYqfF6kRqL7xBTQNJ&index=10&t=0s
 
 Files already provided- layout.html, login.html, helpers.py, login/logout routes within application.py, finance.db
+
+
+
+
