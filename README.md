@@ -68,7 +68,8 @@ Romilda Vane, born 1981
 
 Ginevra Molly Weasley, born 1981
 
-Ronald Bilius Weasley, born 1980 <br />
+Ronald Bilius Weasley, born 1980 
+
 
 **Web_Development**
 
